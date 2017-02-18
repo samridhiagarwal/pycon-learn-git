@@ -1,0 +1,8 @@
+Problem: Someone emails you and you don't recognize them from their email
+Solution: Create a Chrome extension where you can highlight their email address and up pops their picture (by connecting to the Fullcontact API - where you send an email address and it sends back a profile picture)
+
+The best resource for getting started with building a chrome extension is my favorite book by Stephen Foote - Learning to Program
+
+(He builds a chrome extension that switches out all of your Facebook pictures for kittens)
+
+You get to practice JavaScript without having to build and design an application from scratch - it just plugs into something you already use
